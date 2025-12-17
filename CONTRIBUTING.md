@@ -180,11 +180,6 @@ If you have questions:
 - Open a discussion in the repository
 - Check existing issues and PRs
 - Review the documentation
-
-## 📄 License
-
-By contributing, you agree that your contributions will be licensed under the MIT License.
-
 ---
 
-**Thank you for contributing! 🎉**
+

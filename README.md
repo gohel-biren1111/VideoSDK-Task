@@ -30,7 +30,7 @@ A React application demonstrating seamless room switching functionality using Vi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/gohel-biren1111/VideoSDK-Task.git
    cd videosdk-room-switch
    ```
 
@@ -52,7 +52,7 @@ A React application demonstrating seamless room switching functionality using Vi
    
    Edit `.env` and add your token:
    ```env
-   VITE_VIDEOSDK_TOKEN=YOUR_JWT_TOKEN_HERE
+   VITE_VIDEOSDK_TOKEN=10c1b03d6c3f14b3f0ea8529b5b9454a1b3ea36fda0e59b53d6721a292851655
    ```
 
 5. **Start the development server**
@@ -148,14 +148,6 @@ videosdk-room-switch/
 ├── .env                         # API Token Storage
 └── package.json                 # Dependencies
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 🎉 Acknowledgments
 
