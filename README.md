@@ -31,7 +31,6 @@ A React application demonstrating seamless room switching functionality using Vi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/gohel-biren1111/VideoSDK-Task.git
-   cd videosdk-room-switch
    ```
 
 2. **Install dependencies**
